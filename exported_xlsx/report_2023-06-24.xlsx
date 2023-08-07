@@ -1,0 +1,9 @@
+"Client ID","Staff ID",Date,Status,Description
+1,1,2023-06-01,2,"Clients assigned"
+2,1,2023-06-01,2,"description edited"
+3,1,2023-06-01,-2,"Clients assigned"
+4,1,2023-06-23,0,"Clients assigned"
+5,2,2023-06-23,0,"Clients assigned"
+6,2,2023-06-23,0,"Clients assigned"
+7,2,2023-06-23,0,"Clients assigned"
+8,2,2023-06-23,0,"Clients assigned"
